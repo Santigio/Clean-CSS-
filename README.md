@@ -1,2 +1,2 @@
-# Clean-CSS-
+# Clean-CSS
 All About CS
